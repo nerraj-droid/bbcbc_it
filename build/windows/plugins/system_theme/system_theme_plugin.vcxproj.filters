@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\SoftDev\Desktop\Ongoin Project-Personal\Church Desktop App\it_project\windows\flutter\ephemeral\.plugin_symlinks\system_theme\windows\system_theme_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SoftDev\Desktop\Ongoin Project-Personal\Church Desktop App\it_project\windows\flutter\ephemeral\.plugin_symlinks\system_theme\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DB9E7040-AFFD-3562-92F3-3C2EAEBEC940}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

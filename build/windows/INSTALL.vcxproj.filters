@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SoftDev\Desktop\Ongoin Project-Personal\Church Desktop App\it_project\build\windows\CMakeFiles\bf55248a08b6db00dfac4f6177d5dff6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9C9B752C-BC09-3655-B691-9E133FD95584}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
