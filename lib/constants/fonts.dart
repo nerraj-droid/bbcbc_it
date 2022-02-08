@@ -13,5 +13,5 @@ final subtitle = GoogleFonts.quicksand(
 
 final content = GoogleFonts.quicksand(
   fontSize: 18,
-  fontWeight: FontWeight.bold,
+  fontWeight: FontWeight.w500,
 );
